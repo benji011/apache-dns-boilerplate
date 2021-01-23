@@ -1,4 +1,4 @@
-# DO boilerplate (Apache + DNS) using Terraform
+# Apache + DNS boilerplate using Terraform
 
 ## Description
 A personal sandbox-ish repo for me to better understand [IaC](https://en.wikipedia.org/wiki/Infrastructure_as_code) using [Terraform](https://github.com/hashicorp/terraform) together with [DigitalOcean](https://www.digitalocean.com/) as my provider (over other resources like AWS).
